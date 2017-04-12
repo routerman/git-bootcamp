@@ -1,0 +1,26 @@
+{
+  "name": "git-bootcamp",
+  "version": "1.0.0",
+  "description": "Git Bootcamp 用リポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "eater"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recruit-tech/git-bootcamp.git"
+  },
+  "keywords": [
+    "git",
+    "bootcamp"
+  ],
+  "author": "yosuke-furukawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/recruit-tech/git-bootcamp/issues"
+  },
+  "homepage": "https://github.com/recruit-tech/git-bootcamp#readme",
+  "devDependencies": {
+    "eater": "^3.2.0"
+  }
+}
